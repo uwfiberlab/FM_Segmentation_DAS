@@ -6,6 +6,11 @@
 * Goal to speed up process for this     
 * state of the art
 
+* Most if not all papers talk about the discussion of dark fiber from the early papers. More papers discussing need for lit fiber sensing * Possibly, to show connect back to reason for utilizing this infrastructure*
+
+DAS allows for monitoring of geophysical occurances and acoustic signals propagating along the fiber-optic cable. Utilization of this monitoring allows for examination of mutliple different earth processes which include: analysis of total water content utilizing velocity variations in the near-surface (Dou et al., 2017), 
+
+
 ## Data
 * for my section it will be the GCI Alaska data
 * describe cable location, dates used for cable, how much data
