@@ -19,6 +19,15 @@ DAS allows for monitoring of geophysical occurances and acoustic signals propaga
 ## Methods:
 * describe the pipeline for the model as well as the training utilized for the model
 
+### Model:
+* Adaptation from Qibin's model which recreates the decoder for phase picking utlization
+
+### Phase Picking:
+* Took previously phase picked data and created masks by removing outliers and reinterpolating p-wave and s-wave picks for a shallow gradient
+  
+### :Training
+* will take masks and input into the dataset using train test split and evaluate performance using Loss curves + performance metrics.
+
 ## Results
 * undergo an evaluation of how the methods were utilized and how well it was able to segment out specific waves
 * Focus of phase picking for segmentation - method perspection
