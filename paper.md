@@ -30,7 +30,7 @@ DAS allows for monitoring of geophysical occurances and acoustic signals propaga
 ### Phase Picking:
 * Took previously phase picked data and created masks by removing outliers and reinterpolating p-wave and s-wave picks for a shallow gradient
   
-### :Training
+### Training:
 * will take masks and input into the dataset using train test split and evaluate performance using Loss curves + performance metrics.
 
 ## Results
