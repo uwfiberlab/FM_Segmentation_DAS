@@ -10,6 +10,11 @@
 
 DAS allows for monitoring of geophysical occurances and acoustic signals propagating along the fiber-optic cable. Utilization of this monitoring allows for examination of mutliple different earth processes which include: analysis of total water content utilizing velocity variations in the near-surface (Dou et al., 2017), 
 
+* DAS utilizes sources of seismic energy (train noise) to sample as it is a passive mode of sensing (Ajo-Franklin et al., 2019). Can generate upwards of 20 TB / day at highest resolution. 
+
+* Papers discuss noise as a factor and could be a connection between our model and others??
+
+* DAS can be utilized as a source of data for early warning systems due to the fine spatial resolution that it offers (Zhan, 2019). It could allow isolation of areas it appears. "10-100 meter scales" according to paper.
 
 ## Data
 * for my section it will be the GCI Alaska data
