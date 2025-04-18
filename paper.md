@@ -12,6 +12,8 @@ DAS allows for monitoring of geophysical occurances and acoustic signals propaga
 
 * DAS utilizes sources of seismic energy (train noise) to sample as it is a passive mode of sensing (Ajo-Franklin et al., 2019). Can generate upwards of 20 TB / day at highest resolution. 
 
+* Foundation models for phase picking have been utilzied before using deep learning language models (Liu et al., 2024). SeisLM is an example that utilzies self-supervised learning to train for phase picking of siesmic data from seismometers.
+
 * Papers discuss noise as a factor and could be a connection between our model and others??
 
 * DAS can be utilized as a source of data for early warning systems due to the fine spatial resolution that it offers (Zhan, 2019). It could allow isolation of areas it appears. "10-100 meter scales" according to paper.
